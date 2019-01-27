@@ -1,7 +1,7 @@
 # C-Without-Fear-Brian-Overland
 Academic exercises and Notes from C++ Without Fear by Brian Overland
 
-This repository is a collection of academic exercises and personal notes from Brian Overlands's books.
+This repository is a collection of academic exercises and personal notes from Brian Overland's books.
 
 The purpose of these exercises are fundamental improvment and understanding the C++ language and programming from a layman's starting point. It is my aim that a slow and gradual accumulation of projects will show a definitive roadmap of progress or, through painpoints, lack of clarity, careful documentation of challenges presented, and my attempted solutions.
 
